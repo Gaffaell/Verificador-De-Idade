@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+    font: normal 15pt arial;
+    text-align: center;
+}
+#mensagem{
+    text-align: center;
+}
+section{
+    background-color: white;
+    color: black;
+    margin: auto;
+    width: 500px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgb(133, 31, 201);
+    text-align: left;
+}
+div{
+    padding: 10px;
+}
+#foto{
+    text-align: center;
+    padding: 30px;
+}
+footer{
+    font: italic;
+}
